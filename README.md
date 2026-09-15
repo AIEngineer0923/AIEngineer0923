@@ -168,21 +168,7 @@ work. For recent activity, check the contribution calendar on this profile.</sub
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Verify |
-|---|---|---|
-| Claude with Amazon Bedrock | Anthropic Education | [verify](https://verify.skilljar.com/c/ta8s5w89qip2) |
-| Claude with Google Cloud Vertex AI | Anthropic Education | [verify](https://verify.skilljar.com/c/d393tp8iee3w) |
-| Building with the Claude API | Anthropic Education | [verify](https://verify.skilljar.com/c/2ckhzh6zn7oa) |
-| Claude Code in Action | Anthropic Education | [verify](https://verify.skilljar.com/c/rabn3wrf46er) |
-| Automation & Workflow · API Integrations · AI Workflows | n8n | — |
-
-Management engineering (logistics and production), University of Naples Federico II.
-
----
-
 <p align="center">
   <a href="https://francescoiaforte.vercel.app"><b>francescoiaforte.vercel.app</b></a><br>
-  <sub>Naples, Italy — open to AI engineering, full-stack and architecture work.</sub>
+  <sub>Open to AI engineering, full-stack and architecture work.</sub>
 </p>
