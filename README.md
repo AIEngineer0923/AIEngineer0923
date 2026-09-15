@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://francescoiaforte.vercel.app"><b>Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/francesco-iaforte-818b96198">LinkedIn</a> ·
   <a href="https://github.com/francescoveryra-dot/francescoveryra-dot/raw/main/Francesco-Iaforte-CV.pdf">CV</a> ·
   <a href="mailto:francescoiaforte@gmail.com">Email</a>
 </p>
