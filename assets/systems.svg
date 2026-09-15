@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 770" width="640" height="770" role="img" aria-labelledby="t d" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif">
+<title id="t">Systems I build, end to end</title>
+<desc id="d">Seven layers, top to bottom: users &amp; clients; frontend; api &amp; backend services; application &amp; agent orchestration; llm · rag · ml; data · vector · storage; security, observability &amp; delivery.</desc>
+<defs>
+<linearGradient id="field" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="770">
+  <stop offset="0" stop-color="#05060f"/>
+  <stop offset="0.55" stop-color="#080a17"/>
+  <stop offset="1" stop-color="#0e1020"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#915eff" stop-opacity="0.30"/>
+  <stop offset="1" stop-color="#915eff" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22d3ee"/>
+  <stop offset="0.52" stop-color="#915eff"/>
+  <stop offset="1" stop-color="#f272c8"/>
+</linearGradient>
+</defs>
+<rect width="640" height="770" rx="14" fill="url(#field)"/>
+<g stroke="#262a4d" stroke-width="1" opacity="0.16"><path d="M40 0V770"/><path d="M80 0V770"/><path d="M120 0V770"/><path d="M160 0V770"/><path d="M200 0V770"/><path d="M240 0V770"/><path d="M280 0V770"/><path d="M320 0V770"/><path d="M360 0V770"/><path d="M400 0V770"/><path d="M440 0V770"/><path d="M480 0V770"/><path d="M520 0V770"/><path d="M560 0V770"/><path d="M600 0V770"/><path d="M0 40H640"/><path d="M0 80H640"/><path d="M0 120H640"/><path d="M0 160H640"/><path d="M0 200H640"/><path d="M0 240H640"/><path d="M0 280H640"/><path d="M0 320H640"/><path d="M0 360H640"/><path d="M0 400H640"/><path d="M0 440H640"/><path d="M0 480H640"/><path d="M0 520H640"/><path d="M0 560H640"/><path d="M0 600H640"/><path d="M0 640H640"/><path d="M0 680H640"/><path d="M0 720H640"/><path d="M0 760H640"/></g>
+<rect width="640" height="770" rx="14" fill="none" stroke="#262a4d" stroke-width="1.5"/>
+<text x="320" y="33" text-anchor="middle" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="0.18em" fill="#8683a8">SYSTEMS I BUILD</text>
+<g>
+  <path d="M320 134V148" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 142L320 148L324 142" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="134" r="2.6" fill="#22d3ee" opacity="0">
+    <animate attributeName="cy" from="134" to="148" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <path d="M320 234V248" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 242L320 248L324 242" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="234" r="2.6" fill="#22d3ee" opacity="0">
+    <animate attributeName="cy" from="234" to="248" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <path d="M320 334V348" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 342L320 348L324 342" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="334" r="2.6" fill="#b18cff" opacity="0">
+    <animate attributeName="cy" from="334" to="348" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <path d="M320 434V448" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 442L320 448L324 442" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="434" r="2.6" fill="#b18cff" opacity="0">
+    <animate attributeName="cy" from="434" to="448" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <path d="M320 534V548" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 542L320 548L324 542" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="534" r="2.6" fill="#f272c8" opacity="0">
+    <animate attributeName="cy" from="534" to="548" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <path d="M320 634V648" stroke="#343963" stroke-width="1.5"/>
+  <path d="M316 642L320 648L324 642" fill="none" stroke="#343963" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="634" r="2.6" fill="#f272c8" opacity="0">
+    <animate attributeName="cy" from="634" to="648" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g>
+  <rect x="36" y="52" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="62" width="3" height="58" rx="1.5" fill="#22d3ee"/>
+  <text x="58" y="86" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">USERS &amp; CLIENTS</text>
+  <text x="58" y="111" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Operators, sales teams, technicians, guests, admins</text>
+</g>
+<g>
+  <rect x="36" y="152" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="162" width="3" height="58" rx="1.5" fill="#22d3ee"/>
+  <text x="58" y="186" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">FRONTEND</text>
+  <text x="58" y="211" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Web apps, dashboards, mobile apps, embedded software</text>
+</g>
+<g>
+  <rect x="36" y="252" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="262" width="3" height="58" rx="1.5" fill="#b18cff"/>
+  <text x="58" y="286" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">API &amp; BACKEND SERVICES</text>
+  <text x="58" y="311" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">APIs, business logic, auth, integrations, async jobs</text>
+</g>
+<g>
+  <rect x="36" y="352" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="362" width="3" height="58" rx="1.5" fill="#915eff"/>
+  <text x="58" y="386" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">APPLICATION &amp; AGENT ORCHESTRATION</text>
+  <text x="58" y="411" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Domain services, workflows, queues, jobs, tool-using agents</text>
+</g>
+<g>
+  <rect x="36" y="452" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="462" width="3" height="58" rx="1.5" fill="#915eff"/>
+  <text x="58" y="486" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">LLM · RAG · ML</text>
+  <text x="58" y="511" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Retrieval, embeddings, document AI, forecasting, fine-tuning</text>
+</g>
+<g>
+  <rect x="36" y="552" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="562" width="3" height="58" rx="1.5" fill="#f272c8"/>
+  <text x="58" y="586" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">DATA · VECTOR · STORAGE</text>
+  <text x="58" y="611" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Modeling, relational/document DBs, RLS, ORM, vector stores</text>
+</g>
+<g>
+  <rect x="36" y="652" width="568" height="78" rx="10" fill="#171a33" fill-opacity="0.55" stroke="#343963"/>
+  <rect x="36" y="662" width="3" height="58" rx="1.5" fill="#ff8a3d"/>
+  <text x="58" y="686" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="0.05em" fill="#f4f4fb">SECURITY, OBSERVABILITY &amp; DELIVERY</text>
+  <text x="58" y="711" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" fill="#8683a8">Access control, backups, SSL, CI/CD, multi-env deploy</text>
+</g>
+</svg>

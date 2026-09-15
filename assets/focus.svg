@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 62" width="500" height="62" role="img" aria-labelledby="t d" font-family="'Space Grotesk',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif">
+<title id="t">What I focus on</title>
+<desc id="d">A shell prompt typing out, in turn: AI engineering &amp; agentic systems; RAG and knowledge systems; full-stack product delivery; software architecture at scale.</desc>
+<defs>
+<linearGradient id="field" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="62">
+  <stop offset="0" stop-color="#05060f"/>
+  <stop offset="0.55" stop-color="#080a17"/>
+  <stop offset="1" stop-color="#0e1020"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#915eff" stop-opacity="0.30"/>
+  <stop offset="1" stop-color="#915eff" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22d3ee"/>
+  <stop offset="0.52" stop-color="#915eff"/>
+  <stop offset="1" stop-color="#f272c8"/>
+</linearGradient>
+</defs>
+<rect width="500" height="62" rx="10" fill="url(#field)" stroke="#262a4d"/>
+<text x="22" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#b18cff">~</text>
+<text x="40" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#22d3ee">$</text>
+<text x="58" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#8683a8">›</text>
+<text x="78" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" textLength="345.6" lengthAdjust="spacing" fill="#f4f4fb" opacity="1">AI engineering &amp; agentic systems
+  <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" calcMode="discrete" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="78" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" textLength="270" lengthAdjust="spacing" fill="#f4f4fb" opacity="0">RAG and knowledge systems
+  <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" calcMode="discrete" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="78" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" textLength="291.6" lengthAdjust="spacing" fill="#f4f4fb" opacity="0">full-stack product delivery
+  <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" calcMode="discrete" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="78" y="40" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" textLength="324" lengthAdjust="spacing" fill="#f4f4fb" opacity="0">software architecture at scale
+  <animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" calcMode="discrete" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+</text>
+<rect x="498.5" y="14" width="0" height="34" fill="url(#field)">
+  <animate attributeName="x" values="78;423.6;423.6;78;348;348;78;369.6;369.6;78;402;402;78" keyTimes="0;0.07;0.21;0.25;0.32;0.45;0.5;0.57;0.71;0.75;0.82;0.96;1" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="420.5;74.9;74.9;420.5;150.5;150.5;420.5;128.9;128.9;420.5;96.5;96.5;420.5" keyTimes="0;0.07;0.21;0.25;0.32;0.45;0.5;0.57;0.71;0.75;0.82;0.96;1" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+</rect>
+<rect x="427.6" y="23" width="2" height="21" fill="#22d3ee">
+  <animate attributeName="x" values="82;427.6;427.6;82;352;352;82;373.6;373.6;82;406;406;82" keyTimes="0;0.07;0.21;0.25;0.32;0.45;0.5;0.57;0.71;0.75;0.82;0.96;1" dur="16.8s" begin="0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+</rect>
+</svg>
