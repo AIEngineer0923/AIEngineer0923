@@ -1,3 +1,9 @@
+<img
+	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
+	alt="AI Engineer"
+  width="100%"
+/>
+
 <p align="center">
   <img src="assets/focus.svg?v=6" alt="Focus: AI engineering and agentic systems, RAG and knowledge systems, full-stack product delivery, software architecture at scale" width="100%">
 </p>
@@ -20,17 +26,12 @@ orchestration, fine-tuning pipelines using LoRA and QLoRA.
 I studied management engineering, so I read the business process before writing
 code.
 
-Currently AI Engineer & Full-Stack Developer at **InnovEdge**, Naples.
-
-The AI work is counted from shipped systems, not from a skill list: **5** product
-AI agents, **2** RAG / LLM Wiki systems, and **5** models fine-tuned for specific
-tasks.
 
 ---
 
-## Selected systems
+## Systems
 
-Seven systems, each with its own engineering case study. Source is private. The public
+Introduce 6 systems I am proud of. Each system has its own engineering case study. Source is private. The public
 repositories document architecture, decisions and product work.
 
 | System | What it is | Stack | Role |
@@ -153,17 +154,15 @@ Canva · CapCut · HeyGen · Higgsfield · Rask.ai · ElevenLabs
 Requirements and feasibility analysis · client and stakeholder communication · technical-functional documentation · problem solving · priority management · team working · autonomy · project coordination
 
 ---
+## Work & Collaboration
 
-## Engineering activity
+Open to **AI engineering roles, contract work, and selected technical collaborations** across:
 
-<img src="assets/activity.svg?v=2" alt="Public engineering activity card: public repositories, public contributions over twelve months, stars and languages, with a contribution heat strip" width="100%">
-
-<sub>This card counts <b>public repositories only</b>. The platforms above are private
-client and product repositories, so public metrics don't reflect the full volume of
-work. For recent activity, check the contribution calendar on this profile.</sub>
+- **Production ML & generative AI systems** — model and LLM workflows, APIs, serving, deployment, evaluation, observability, and reliability
+- **RAG, agents & AI evaluation** — retrieval quality, grounded outputs, tool-enabled workflows, benchmark design, executable checks, trace analysis, and failure diagnosis
+- **Data & decision systems** — validated data products, analytics, threshold policies, monitoring, and operator-facing workflows
 
 ---
-
 <p align="center">
   <a href="https://AIEngineer0923.vercel.app"><b>AIEngineer0923.vercel.app</b></a><br>
   <sub>Open to AI engineering, full-stack and architecture work.</sub>
