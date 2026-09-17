@@ -1,13 +1,11 @@
-<img src="assets/hero.svg?v=3" alt="Francesco Iaforte — AI Engineer and Full-Stack Developer" width="100%">
-
 <p align="center">
   <img src="assets/focus.svg?v=6" alt="Focus: AI engineering and agentic systems, RAG and knowledge systems, full-stack product delivery, software architecture at scale" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://francescoiaforte.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://AIEngineer0923.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://github.com/francescoveryra-dot/francescoveryra-dot/raw/main/Francesco-Iaforte-CV.pdf">CV</a> ·
-  <a href="mailto:francescoiaforte@gmail.com">Email</a>
+  <a href="mailto:firemars0923@gmail.com">Email</a>
 </p>
 
 ---
@@ -37,17 +35,16 @@ repositories document architecture, decisions and product work.
 
 | System | What it is | Stack | Role |
 |---|---|---|---|
-| **[DeepScout](https://github.com/francescoveryra-dot/deepscout)** · [live](https://deep-scout-plum.vercel.app) | Open-source agentic research: planner DAG, evidence graph, hybrid RAG, cited reports, evaluations | Python · FastAPI · Next.js · PostgreSQL/pgvector · LangChain · LangGraph · Tavily | Personal project — architecture, orchestrator, retrieval, hosted MODE B |
-| **[AI Operations Hub](https://github.com/francescoveryra-dot/ai-operations-hub-showcase)** | Production B2B operations platform combining company acquisition, source-aware enrichment, operational CRM and AI voice operations | React · TypeScript · NestJS · PostgreSQL · Redis · BullMQ · ElevenLabs Agents · Apify · OpenAPI Company · REST APIs · Webhooks · Docker | Architecture, prospecting, provenance, voice, adapters |
-| **[OptiBuild](https://github.com/francescoveryra-dot/optibuild-showcase)** | Construction-site platform that turns 500+ page quantity surveys into structured, costed work | Laravel · React · Capacitor · Python · relational data layer | Architecture, data layer, AI parsing, modules |
-| **[AI Retail Operations](https://github.com/francescoveryra-dot/ai-retail-operations-showcase)** | Food, retail and logistics platform with an AI assistant that performs real operations | React · TypeScript · Supabase · PostgreSQL · Capacitor | Modules, logistics, AI and forecasting layer |
-| **[TemaSuite](https://github.com/francescoveryra-dot/temasuite-showcase)** | Multi-company hospitality SaaS: bookings, Channel Manager, OTA sync, full accounting cycle | Laravel · Angular · PrimeNG · Stripe · relational data layer | Full-stack architecture, API, data model, workflows |
-| **[Mielepiù](https://github.com/francescoveryra-dot/miele-plus-showcase)** | B2B sales platform whose AI agent answers on real data and cites its sources | NestJS · Prisma · React · TanStack Query | Backend modules, AI components, integrations |
-| **[IAF Agent OS](https://github.com/francescoveryra-dot/iaf-agent-os-showcase)** | Control plane that makes AI-assisted development governable across four different IDEs | Agents · skills · policies · deterministic gates | Designed and built independently |
-| **[Athleta](https://github.com/francescoveryra-dot/athleta-showcase)** | Personal AI fitness product where every user owns a queryable knowledge graph | React 19 · Supabase · PostgreSQL · RAG · LLM Wiki | Everything, end to end |
+| **[AI Operations Hub](https://github.com/AIEngineer0923/ai-operations-hub-showcase)** | Production B2B operations platform combining company acquisition, source-aware enrichment, operational CRM and AI voice operations | React · TypeScript · NestJS · PostgreSQL · Redis · BullMQ · ElevenLabs Agents · Apify · OpenAPI Company · REST APIs · Webhooks · Docker | Architecture, prospecting, provenance, voice, adapters |
+| **[OptiBuild](https://github.com/AIEngineer0923/optibuild-showcase)** | Construction-site platform that turns 500+ page quantity surveys into structured, costed work | Laravel · React · Capacitor · Python · relational data layer | Architecture, data layer, AI parsing, modules |
+| **[AI Retail Operations](https://github.com/AIEngineer0923/ai-retail-operations-showcase)** | Food, retail and logistics platform with an AI assistant that performs real operations | React · TypeScript · Supabase · PostgreSQL · Capacitor | Modules, logistics, AI and forecasting layer |
+| **[TemaSuite](https://github.com/AIEngineer0923/temasuite-showcase)** | Multi-company hospitality SaaS: bookings, Channel Manager, OTA sync, full accounting cycle | Laravel · Angular · PrimeNG · Stripe · relational data layer | Full-stack architecture, API, data model, workflows |
+| **[Mielepiù](https://github.com/AIEngineer0923/miele-plus-showcase)** | B2B sales platform whose AI agent answers on real data and cites its sources | NestJS · Prisma · React · TanStack Query | Backend modules, AI components, integrations |
+| **[IAF Agent OS](https://github.com/AIEngineer0923/iaf-agent-os-showcase)** | Control plane that makes AI-assisted development governable across four different IDEs | Agents · skills · policies · deterministic gates | Designed and built independently |
+| **[Athleta](https://github.com/AIEngineer0923/athleta-showcase)** | Personal AI fitness product where every user owns a queryable knowledge graph | React 19 · Supabase · PostgreSQL · RAG · LLM Wiki | Everything, end to end |
 
 Each case study links back to the interactive version on the
-[portfolio](https://francescoiaforte.vercel.app), where you can walk the real interfaces.
+[portfolio](https://AIEngineer0923.vercel.app), where you can walk the real interfaces.
 
 ---
 
@@ -61,7 +58,7 @@ The diagram is the architecture I ship. The list below is the inventory.
 
 ## Technologies & tools
 
-The same inventory as the [portfolio](https://francescoiaforte.vercel.app), in compact form.
+The same inventory as the [portfolio](https://AIEngineer0923.vercel.app), in compact form.
 Project stacks are in the table above. This list is the union of what I work with.
 
 ### AI & Machine Learning
@@ -134,7 +131,7 @@ Role-based access control · row-level security · audit trails · secrets handl
 **Coding agents:** Claude Code · Cursor · Codex · Google Antigravity  
 **Automation:** n8n · Workflow Automation
 
-Governed by <a href="https://github.com/francescoveryra-dot/iaf-agent-os-showcase">IAF Agent OS</a>.
+Governed by <a href="https://github.com/AIEngineer0923/iaf-agent-os-showcase">IAF Agent OS</a>.
 
 ### Complementary Experience
 
@@ -168,6 +165,6 @@ work. For recent activity, check the contribution calendar on this profile.</sub
 ---
 
 <p align="center">
-  <a href="https://francescoiaforte.vercel.app"><b>francescoiaforte.vercel.app</b></a><br>
+  <a href="https://AIEngineer0923.vercel.app"><b>AIEngineer0923.vercel.app</b></a><br>
   <sub>Open to AI engineering, full-stack and architecture work.</sub>
 </p>
