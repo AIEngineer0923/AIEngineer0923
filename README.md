@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://AIEngineer0923.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://aiengineer0923.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://github.com/francescoveryra-dot/francescoveryra-dot/raw/main/Francesco-Iaforte-CV.pdf">CV</a> ·
-  <a href="mailto:firemars0923@gmail.com">Email</a>
+  <a href="mailto:aiengineer0923@outlook.com">Email</a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ The diagram is the architecture I ship. The list below is the inventory.
 
 ## Technologies & tools
 
-The same inventory as the [portfolio](https://AIEngineer0923.vercel.app), in compact form.
+The same inventory as the [portfolio](https://aiengineer0923.vercel.app), in compact form.
 Project stacks are in the table above. This list is the union of what I work with.
 
 ### AI & Machine Learning
@@ -164,6 +164,6 @@ Open to **AI engineering roles, contract work, and selected technical collaborat
 
 ---
 <p align="center">
-  <a href="https://AIEngineer0923.vercel.app"><b>AIEngineer0923.vercel.app</b></a><br>
+  <a href="https://aiengineer0923.vercel.app"><b>AIEngineer0923.vercel.app</b></a><br>
   <sub>Open to AI engineering, full-stack and architecture work.</sub>
 </p>
